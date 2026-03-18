@@ -1,0 +1,16 @@
+# ETL 1
+
+## Objetivos:
+- Importar
+- Remover linhas em branco
+- Mesclar colunas
+
+
+## Passo a passo
+
+Importar a Tabela 1.0.2 e realizar *mesclar colunas* Nome Vendedor e Sobrenome Vendedor;
+
+Criar um dashboard com um *cartão* contendo o total de vendas;
+Criar um gráfico de barras dos vendedores;
+
+Salvar arquivo
